@@ -1,0 +1,8 @@
+C:\Users\Yunus\Desktop\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\Yunus\Desktop\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\SimpleArrayTypedQueue.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.Form1.resources
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.Properties.Resources.resources
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\SimpleArrayTypedQueue.csproj.GenerateResource.Cache
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.exe
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.pdb

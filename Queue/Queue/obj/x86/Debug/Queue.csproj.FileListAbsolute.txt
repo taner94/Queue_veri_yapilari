@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.Form1.resources
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.Properties.Resources.resources
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.exe
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.pdb
+C:\Users\PC\Desktop\Veri Yapıları Çalışmaları\Queue\Queue\obj\x86\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.exe
+C:\Users\Yunus\Desktop\Queue\Queue\obj\x86\Debug\Queue.pdb
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.exe
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.pdb
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.Form1.resources
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.Properties.Resources.resources
+C:\Users\Taner\Desktop\Queue1\Queue\Queue\obj\x86\Debug\Queue.csproj.GenerateResource.Cache
